@@ -4,7 +4,7 @@ Welcome to **Posts Manager** – a sleek, powerful, and user-friendly applicatio
 
 This application allows users to **create, read, edit,** and **delete** their posts while maintaining high security with authentication and authorization features.
 
-With a modern tech stack of **TypeScript, NodeJS, ExpressJS, and MongoDB**, it's built to handle posts smoothly, backed by solid RESTful APIs and robust authentication mechanisms. 🔐
+With a modern tech stack of **AngularJS, NodeJS, ExpressJS, and MongoDB**, it's built to handle posts smoothly, backed by solid RESTful APIs and robust authentication mechanisms. 🔐
 
 ---
 
