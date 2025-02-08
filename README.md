@@ -54,7 +54,7 @@ cd posts-manager-mean
 cd backend
 npm install
 ```
-**Frontend Setup (TypeScript + HTML/CSS):**
+**Frontend Setup (AngularJS + HTML/CSS):**
 ```bash
 cd posts-manager-mean
 npm install
@@ -74,7 +74,7 @@ npm start
 ```
 
 5. Start the Frontend
-Now, start the frontend (TypeScript, HTML, CSS):
+Now, start the frontend (AngularJS, HTML, CSS):
 ```bash
 cd frontend
 npm start
