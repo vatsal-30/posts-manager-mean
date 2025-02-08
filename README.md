@@ -23,6 +23,7 @@ With a modern tech stack of **TypeScript, NodeJS, ExpressJS, and MongoDB**, it's
 The magic behind **Posts Manager** is powered by the following technologies:
 
 - **Frontend**:
+  - AngularJS
   - TypeScript 🖥️
   - HTML & CSS 🎨
 - **Backend**:
